@@ -1,0 +1,58 @@
+#geral {
+    width: 700px;
+    margin: auto;
+    background-color: #f3e8ff; 
+    color: #4a0072;
+    border: 1px solid #c8a2c8; 
+}
+
+#cabecalho, #esquerda, #conteudo, #rodape {
+    padding: 10px;
+}
+
+#cabecalho {
+    text-align: center;
+    background-color: #e1ccec; 
+    border-bottom: 1px solid #c8a2c8;
+}
+
+#esquerda {
+    float: left;
+    width: 150px;
+}
+#menu{
+    text-align: center;
+}
+  
+#menu a:hover {
+    color:crimson;
+  }
+#sobre-mim {
+    text-align: center;
+}
+
+#conteudo {
+    float: left;
+    width: 500px;
+    border-left: 1px solid #c8a2c8;
+    background-color: #f3e8ff; 
+}
+p{
+    text-align: justify;
+}
+#rodape {
+    clear: both;
+    color: #4a0072;
+    background-color: #e1ccec;
+    border-top: 1px solid #c8a2c8;
+
+}
+img {
+    width: 150px;
+    height: 190px;
+    border: 2px solid #c8a2c8; 
+    border-radius: 10px;
+    margin: 10px;     
+    display: block;
+    margin: auto;
+}
